@@ -5,7 +5,8 @@ Hi, I'm **Tim Wallace**, a mechanical engineer with a deep passion for **robotic
 ---
 
 ## 🤖 About Me:
-- 🎓 **Bachelors Degree in Mechanical Engineering** w/ a **Minor in Robotics** >from the **University of Massachusetts Lowell** 
+- 🎓 **Bachelors Degree in Mechanical Engineering** w/ a **Minor in Robotics**
+>from the **University of Massachusetts Lowell** 
 - 📖 Currently learning **C++**, **Python**, and **ROS2**  
 - 🔍 Fascinated by how logic, structure, and creativity come together in software  
 - 🤝 I love building things that aid peoples lives []
