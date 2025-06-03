@@ -1,7 +1,11 @@
-# Transparency Statement
-As a mechanical engineer using C++ for the first time I solved this with nexted for loops resulting in a time complexity of O(N^2). In order to solve this with a time complexity of O(N) I asked ChatGPT what strategies I can use. 
+# Problem Statement
 
-I learned to use hash maps to refrence data I have already visited
+---
+
+# Transparency Statement
+As a mechanical engineer using C++ for the first time I solved this with nested for loops resulting in a time complexity of O(N^2). In order to solve this with a time complexity of O(N) I asked ChatGPT what strategies I can use. 
+
+**I learned to use hash maps to refrence data I have already visited**
 
 ### Prompt:
 ```dont solve it for me but what methods would I use to chnage this solution from O(n^2) to something less time complex```
