@@ -1,4 +1,4 @@
-# 🛠️ Tim Wallace — Mechanical Engineer With a Passion for Programming!
+# 🛠️ Mechanical Engineer With a Passion for Programming!
 
 Hi, I'm **Tim Wallace**, a mechanical engineer with a deep passion for **robotics** and **learning to code**.
 
