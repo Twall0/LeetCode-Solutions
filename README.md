@@ -9,7 +9,7 @@ Hi, I'm **Tim Wallace**, a mechanical engineer with a deep passion for **robotic
 >from the **University of Massachusetts Lowell** 
 - 📖 Currently learning **C++**, **Python**, and **ROS2**  
 - 🔍 Fascinated by how logic, structure, and creativity come together in software  
-- 🤝 I love building things that aid peoples lives []
+- 🤝 I love building things that aid peoples lives [G.L.O.V.E.](https://github.com/Twall0/G.L.O.V.E.)
 - 💭 I aspire to become a Robotics Engineer
 
 ---
