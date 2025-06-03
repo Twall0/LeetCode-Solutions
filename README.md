@@ -5,10 +5,10 @@ Hi, I'm **Tim Wallace**, a mechanical engineer with a deep passion for **robotic
 ---
 
 ## 🤖 About Me:
-- 🎓 **Bachelors Degree in Mechanical Engineering** w/ a **Minor in Robotics** from the **University of Massachusetts Lowell** 
+- 🎓 **Bachelors Degree in Mechanical Engineering** w/ a **Minor in Robotics** >from the **University of Massachusetts Lowell** 
 - 📖 Currently learning **C++**, **Python**, and **ROS2**  
 - 🔍 Fascinated by how logic, structure, and creativity come together in software  
-- 🤝 I love building things, whether physical or digital
+- 🤝 I love building things that aid peoples lives []
 - 💭 I aspire to become a Robotics Engineer
 
 ---
@@ -25,7 +25,7 @@ As someone coming from a non-programming background, I use AI tools not for solu
 - Understand **how programming concepts can be applied to solutions**
 - Explore **alternative approaches**
 - Clarify **concepts** that aren't immediately obvious
-> All in the effort of becoming a better programmer.
+All in the effort of becoming a better programmer.
 
 ---
 
